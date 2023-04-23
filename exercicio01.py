@@ -11,7 +11,6 @@ if __name__ == '__main__':
             soma += c # mesma coisa que soma = soma + c
             contador += 1
             print(c)
-
     print('A soma de todos os {} valores é {} '.format(contador, soma))
 
 
